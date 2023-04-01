@@ -2,7 +2,7 @@
 This is a full-stack e-commerce website built using React, Node.js, and MongoDB. The website allows users to browse and purchase products, manage their shopping cart, and complete the checkout process.
 
 # Features
-Browse products by category
+Browse products by category <br>
 View product details, including images, and pricing
 Add products to a shopping cart and manage cart items
 Complete the checkout process, including payment and shipping information
