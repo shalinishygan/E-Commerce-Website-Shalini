@@ -22,7 +22,5 @@ Contributions are welcome! To contribute, please fork this repository and create
 This project is licensed under the MIT License.  
 <br>
 
-![Screenshot (98)](https://user-images.githubusercontent.com/96416195/229275193-f6caf655-d285-49ef-a71e-432c2a98b5a5.png)  
-
 https://user-images.githubusercontent.com/96416195/229297649-fe4e6ac7-0f01-4709-a33e-c1de633c9ce4.mp4
 
