@@ -1,29 +1,22 @@
 # E-Commerce-Website-Shalini
-This is a full-stack e-commerce website built using React, Node.js, and MongoDB. The website allows users to browse and purchase products, manage their shopping cart, and complete the checkout process.
+This is a fully responsive e-commerce website frontend built using HTML, CSS, and Javascript. The website includes pages for browsing products, viewing product details, adding products to a shopping cart, and completing the checkout process.
 
-# Features
-Browse products by category  
-View product details, including images, and pricing  
+#Features
+Responsive design for mobile, tablet, and desktop devices  
+Browse products by category or search by keywords  
+View product details, including images, descriptions, and pricing  
 Add products to a shopping cart and manage cart items  
-Complete the checkout process, including payment and shipping information
-View order history and track order status
-Admin panel for managing products, orders, and users
-# Technologies Used
-HTML
-CSS
-Javascript
-# Getting Started
-To run this project on your local machine, follow these steps:
+Complete the checkout process, including payment and shipping information  
+#Technologies Used  
+HTML  
+CSS  
+Javascript  
+Bootstrap 5  
+#Getting Started
+To run this project on your local machine, follow these steps:  
+Clone this repository.  
+Open the index.html file in your web browser to view the website.  
+Contributions are welcome! To contribute, please fork this repository and create a pull request with your changes.  
 
-Clone this repository.
-Install dependencies using npm install.
-Create a .env file with the following environment variables:
-MONGODB_URI: the URI for your MongoDB database
-STRIPE_SECRET_KEY: your Stripe API secret key
-Run the server using npm start.
-Open a web browser and navigate to http://localhost:3000 to view the website.
-Contributing
-Contributions are welcome! To contribute, please fork this repository and create a pull request with your changes.
-
-# License
-This project is licensed under the MIT License.
+#License
+This project is licensed under the MIT License.  
